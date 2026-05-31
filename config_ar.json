@@ -1067,7 +1067,7 @@
 "margin":{
 "all":0.0
 },
-"sizeIcon":50.5}
+"sizeIcon":50.0}
 },
 "ProductDetail":"flatStyle",
 "productDetail":{
@@ -1230,24 +1230,24 @@
 },
 {
 "key":"CtDIiRCJrL",
+"layout":"profile",
 "icon":"assets/icons/tabs/icon-user.png",
 "label":"حسابي",
-"layout":"profile",
-"settings":["biometrics",
-"wishlist",
-"notifications",
+"defaultTab":false,
+"fullscreen":true,
+"showOriginalColor":false,
+"settings":["order",
 "language",
 "currencies",
+"biometrics",
+"wishlist",
+"notifications",
 "darkTheme",
-"order",
-"wallet",
 "rating",
 "privacy"],
-"styleItem":"flatListTile",
 "background":"https://trello.com/1/cards/6818d78e70e5270c2016d1f2/attachments/681c1d6b6c25844d765b1c07/download/profile.png",
-"fullscreen":true,
 "showBackground":true,
-"showOriginalColor":false
+"styleItem":"flatShadow"
 },
 {
 "key":"pbHLKpPEDu",
@@ -1505,4 +1505,4 @@
 "shopifyMember":"زبون/ة بيوتي تايم",
 "shopifyAccountManagement":"إدارة حساب بيوتي تايم"
 },
-"Datetime":"2026-05-19T12:25:46.706450"}
+"Datetime":"2026-05-31T14:49:34.079487"}
