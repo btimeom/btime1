@@ -1212,7 +1212,7 @@
 {
 "key":"ENDOhlSxCb",
 "layout":"videos",
-"icon":"assets/images/watch_play_button.json",
+"icon":"https://assets6.lottiefiles.com/packages/lf20_smh1zY.json",
 "label":"شاهد",
 "visible":false,
 "defaultTab":false,
@@ -1252,7 +1252,7 @@
 {
 "key":"pbHLKpPEDu",
 "layout":"videos",
-"icon":"none",
+"icon":"https://assets6.lottiefiles.com/packages/lf20_smh1zY.json",
 "label":"شاهد",
 "visible":true,
 "defaultTab":false,
