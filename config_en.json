@@ -1254,7 +1254,7 @@
     {
       "key": "pbHLKpPEDu",
       "layout": "videos",
-      "icon": "https://assets6.lottiefiles.com/packages/lf20_smh1zY.json",
+      "icon": "none",
       "label": "Watch",
       "visible": true,
       "defaultTab": false,
