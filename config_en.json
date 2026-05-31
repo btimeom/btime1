@@ -1233,23 +1233,24 @@
       "icon": "assets/icons/tabs/icon-user.png",
       "label": "My Account",
       "layout": "profile",
+      "defaultTab": false,
+      "fullscreen": true,
+      "showOriginalColor": false,
       "settings": [
+        "order",
+        "wallet",
+        "language",
+        "currencies",
         "biometrics",
         "wishlist",
         "notifications",
-        "language",
-        "currencies",
         "darkTheme",
-        "order",
-        "wallet",
         "rating",
         "privacy"
       ],
-      "styleItem": "flatListTile",
+      "styleItem": "flatShadow",
       "background": "https://trello.com/1/cards/6818d78e70e5270c2016d1f2/attachments/681c1d6b6c25844d765b1c07/download/profile.png",
-      "fullscreen": true,
-      "showBackground": true,
-      "showOriginalColor": false
+      "showBackground": true
     },
     {
       "key": "pbHLKpPEDu",
