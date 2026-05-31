@@ -1210,7 +1210,7 @@
     {
       "key": "ENDOhlSxCb",
       "layout": "videos",
-      "icon": "https://assets6.lottiefiles.com/packages/lf20_smh1zY.json",
+      "icon": "assets/images/watch_play_button.json",
       "label": "Watch",
       "visible": false,
       "defaultTab": false,
