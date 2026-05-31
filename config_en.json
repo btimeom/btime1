@@ -1210,7 +1210,7 @@
     {
       "key": "ENDOhlSxCb",
       "layout": "videos",
-      "icon": "assets/images/watch_play_button.json",
+      "icon": "https://app.btime.om/a/watch_play_button.json",
       "label": "Watch",
       "visible": false,
       "defaultTab": false,
