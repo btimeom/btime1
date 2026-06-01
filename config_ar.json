@@ -1200,7 +1200,7 @@
 "icon":"assets/icons/tabs/icon-user.png",
 "label":"حسابي",
 "defaultTab":false,
-"fullscreen":false,
+"fullscreen":true,
 "showOriginalColor":false,
 "settings":["order",
 "wallet",

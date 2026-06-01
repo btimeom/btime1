@@ -1201,7 +1201,7 @@
       "label": "My Account",
       "layout": "profile",
       "defaultTab": false,
-      "fullscreen": false,
+      "fullscreen": true,
       "showOriginalColor": false,
       "settings": [
         "order",
