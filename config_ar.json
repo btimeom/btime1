@@ -1138,7 +1138,25 @@
 },
 "flexible":{
 "data":{
-"items":[],
+"items":[
+{
+"image":"https://assets9.lottiefiles.com/private_files/lf30_a4mKwA.json",
+"width":83,
+"height":83,
+"navigator":{
+"key":"ooWURbOAwF",
+"tab":"static",
+"title":"كوبون خصم",
+"enableForward":true,
+"enableBackward":true
+},
+"marginLeft":0,
+"marginRight":0,
+"useMaxWidth":true,
+"borderRadius":2,
+"textFontSize":14
+}
+],
 "layout":"button",
 "alignment":"topLeft",
 "marginTop":0,
