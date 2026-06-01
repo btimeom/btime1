@@ -1140,10 +1140,10 @@
           "enableBackground": false
         },
         "width": 100,
-        "enable": true,
+        "enable": false,
         "height": 100,
-        "canDrag": true,
-        "canClose": true
+        "canDrag": false,
+        "canClose": false
       }
     }
   },
@@ -1246,45 +1246,6 @@
       "styleVersions": [
         "1"
       ]
-    },
-    {
-      "key": "iZKBNjksIL",
-      "data": {
-        "id": 1,
-        "container": {
-          "image": {
-            "url": "https://cdn.shopify.com/s/files/1/0619/3915/5027/files/bt9.jpg",
-            "align": {
-              "x": 1,
-              "y": 1
-            },
-            "width": 1,
-            "height": 0.5
-          },
-          "header": {
-            "text": "Discount Coupon",
-            "align": {
-              "x": -1,
-              "y": 0.8
-            },
-            "color": "#FFFFFF",
-            "padding": {
-              "vertical": 10,
-              "horizontal": 20
-            },
-            "background": "#000000"
-          },
-          "height": 0.5
-        },
-        "subHeader": "Congratulations! You got a big discount coupon 🎉\r\n",
-        "description": "Your discount code: BT9\n\nYou can use this code in the coupon field when completing your purchase on the cart page.\n\nTerms of use: The coupon works on purchases exceeding 9 OMR."
-      },
-      "icon": "assets/images/no_coupon.png",
-      "label": "Discount Coupon",
-      "layout": "static",
-      "visible": false,
-      "fullscreen": false,
-      "showOriginalColor": false
     }
   ],
   "AppBar": {
