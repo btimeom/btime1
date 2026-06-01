@@ -1212,7 +1212,7 @@
 {
 "key":"ENDOhlSxCb",
 "layout":"videos",
-"icon":"https://app.btime.om/a/watch_play_button.json",
+"icon":"https://app.btime.om/watch_play_button.json",
 "label":"شاهد",
 "visible":false,
 "defaultTab":false,
