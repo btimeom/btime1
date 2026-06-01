@@ -1132,25 +1132,7 @@
       },
       "flexible": {
         "data": {
-          "items": [
-            {
-              "image": "https://assets9.lottiefiles.com/private_files/lf30_a4mKwA.json",
-              "width": 83,
-              "height": 83,
-              "navigator": {
-                "key": "ooWURbOAwF",
-                "tab": "static",
-                "title": "Discount Coupon",
-                "enableForward": true,
-                "enableBackward": true
-              },
-              "marginLeft": 0,
-              "marginRight": 0,
-              "useMaxWidth": true,
-              "borderRadius": 2,
-              "textFontSize": 14
-            }
-          ],
+          "items": [],
           "layout": "button",
           "alignment": "topLeft",
           "marginTop": 0,
