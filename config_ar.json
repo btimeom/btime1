@@ -1182,7 +1182,7 @@
 "layout":"videos",
 "icon":"https://app.btime.om/watch_play_button.json",
 "label":"شاهد",
-"visible":false,
+"visible":true,
 "defaultTab":false,
 "fullscreen":true,
 "showOriginalColor":false,
