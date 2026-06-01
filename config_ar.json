@@ -1077,6 +1077,7 @@
 "ProductListLayout":"list",
 "SmartEngagementBanner":{
 "popup":{
+"enable":false,
 "data":{
 "fit":"fitWidth",
 "items":[],
@@ -1124,19 +1125,14 @@
 "enableTimeIndicator":true,
 "doubleTapToFullScreen":false
 },
-"enable":false,
-"iconSize":24,
-"updatedTime":1773779013988,
-"closePosition":"topRight",
 "alwaysShowUponOpen":true,
-"allowTapOutsideToClose":false
-},
-"sticky":{
-"data":{
-},
-"enable":false
+"closePosition":"topRight",
+"updatedTime":1780301077128,
+"allowTapOutsideToClose":false,
+"iconSize":24.0
 },
 "flexible":{
+"enable":false,
 "data":{
 "items":[
 {
@@ -1163,11 +1159,14 @@
 "marginBottom":0,
 "enableBackground":false
 },
-"width":100,
-"enable":true,
-"height":100,
 "canDrag":true,
-"canClose":true}}
+"canClose":true,
+"width":100,
+"height":100
+},
+"sticky":{
+"enable":false,
+"data":{}}}
 },
 "TabBar":[
 {
@@ -1260,45 +1259,6 @@
 "fullscreen":true,
 "showOriginalColor":false,
 "styleVersions":["1"]
-},
-{
-"key":"iZKBNjksIL",
-"data":{
-"id":1,
-"container":{
-"image":{
-"url":"https://cdn.shopify.com/s/files/1/0619/3915/5027/files/bt9.jpg",
-"align":{
-"x":1,
-"y":1
-},
-"width":1,
-"height":0.5
-},
-"header":{
-"text":"كوبون خصم",
-"align":{
-"x":-1,
-"y":0.8
-},
-"color":"#FFFFFF",
-"padding":{
-"vertical":10,
-"horizontal":20
-},
-"background":"#000000"
-},
-"height":0.5
-},
-"subHeader":"مبروك عليك! حصلت على كوبون خصم كبير 🎉\r\n",
-"description":"رمز الخصم الخاص بك: BT9\n\nيمكنك استخدام هذا الرمز في خانة الكوبون عند إتمام عملية الشراء في صفحة السلة.\n\nشروط الاستخدام: يعمل الكوبون على المشتريات التي تتجاوز قيمتها 9 ريال عماني."
-},
-"icon":"assets/images/no_coupon.png",
-"label":"كوبون خصم",
-"layout":"static",
-"visible":false,
-"fullscreen":false,
-"showOriginalColor":false
 }
 ],
 "AppBar":{
@@ -1506,4 +1466,4 @@
 "shopifyMember":"زبون/ة بيوتي تايم",
 "shopifyAccountManagement":"إدارة حساب بيوتي تايم"
 },
-"Datetime":"2026-05-31T14:49:34.079487"}
+"Datetime":"2026-06-01T12:05:20.506645"}
