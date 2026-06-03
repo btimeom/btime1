@@ -1200,7 +1200,7 @@
 "icon":"assets/icons/tabs/icon-user.png",
 "label":"حسابي",
 "defaultTab":false,
-"fullscreen":true,
+"fullscreen":false,
 "showOriginalColor":false,
 "settings":["order",
 "wallet",
@@ -1433,4 +1433,4 @@
 "shopifyMember":"زبون/ة بيوتي تايم",
 "shopifyAccountManagement":"إدارة حساب بيوتي تايم"
 },
-"Datetime":"2026-06-01T12:05:20.506645"}
+"Datetime":"2026-06-03T07:55:28.959782"}
