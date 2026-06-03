@@ -1199,7 +1199,7 @@
 "key":"CtDIiRCJrL",
 "layout":"profile",
 "icon":"assets/icons/tabs/icon-user.png",
-"label":"My Account",
+"label":"Account",
 "defaultTab":false,
 "fullscreen":false,
 "showOriginalColor":false,
