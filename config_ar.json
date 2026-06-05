@@ -1378,7 +1378,7 @@
 "screen-trackOrder": {
   "id": "screen-trackOrder",
   "icon": "cube_box",
-  "title": "تتبع الطلبات",
+  "title": "تتبع الطلب",
   "screen": "orders",
   "webViewMode": false,
   "useTabScreen": false,
