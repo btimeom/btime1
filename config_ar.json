@@ -1284,7 +1284,7 @@
 },
 {
 "show":true,
-"type":"web-trackOrder"
+"type":"screen-trackOrder"
 },
 {
 "show":true,
