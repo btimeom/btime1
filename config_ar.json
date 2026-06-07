@@ -1141,6 +1141,7 @@
 "icon":"assets/icons/tabs/icon-home.png",
 "label":"الرئيسية",
 "layout":"home",
+"defaultTab":true,
 "fullscreen":false,
 "showOriginalColor":false
 },
@@ -1402,7 +1403,7 @@
 "enableClose":false,
 "webViewMode":false,
 "bannerHeight":15,
-"useTabScreen":false,
+"useTabScreen":true,
 "enableDivider":false,
 "enableForward":false,
 "requiredLogin":false,
