@@ -1142,6 +1142,7 @@
 "icon":"assets/icons/tabs/icon-home.png",
 "label":"Home",
 "layout":"home",
+"defaultTab":true,
 "fullscreen":false,
 "showOriginalColor":false
 },

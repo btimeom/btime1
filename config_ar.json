@@ -1141,6 +1141,7 @@
 "icon":"assets/icons/tabs/icon-home.png",
 "label":"الرئيسية",
 "layout":"home",
+"defaultTab":true,
 "fullscreen":false,
 "showOriginalColor":false
 },
