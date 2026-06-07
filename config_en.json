@@ -1036,7 +1036,7 @@
 "marginLeft":0,
 "marginRight":0,
 "bottomBarStyle":"static",
-"alwaysShowTabBar":false,
+"alwaysShowTabBar":true,
 "TabBarIndicator":{
 "height":1,
 "tabPosition":"bottom",
@@ -1222,7 +1222,7 @@
 "layout":"videos",
 "icon":"none",
 "label":"Watch",
-"visible":true,
+"visible":false,
 "defaultTab":false,
 "fullscreen":true,
 "showOriginalColor":false,
