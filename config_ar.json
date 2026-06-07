@@ -1221,7 +1221,7 @@
 "layout":"videos",
 "icon":"none",
 "label":"شاهد",
-"visible":false,
+"visible":true,
 "defaultTab":false,
 "fullscreen":true,
 "showOriginalColor":false,
