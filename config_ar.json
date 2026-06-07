@@ -1215,8 +1215,7 @@
 "privacy"],
 "background":"https://trello.com/1/cards/6818d78e70e5270c2016d1f2/attachments/681c1d6b6c25844d765b1c07/download/profile.png",
 "showBackground":true,
-"settingStyle":"normal",
-"styleItem":"flatShadow"
+"styleItem":"flatListTile"
 },
 {
 "key":"pbHLKpPEDu",
