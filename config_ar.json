@@ -1036,7 +1036,7 @@
 "marginLeft":0.0,
 "marginRight":0.0,
 "bottomBarStyle":"static",
-"alwaysShowTabBar":false,
+"alwaysShowTabBar":true,
 "TabBarIndicator":{
 "height":1.0,
 "tabPosition":"bottom",
@@ -1284,7 +1284,7 @@
 },
 {
 "show":true,
-"type":"screen-trackOrder"
+"type":"web-trackOrder"
 },
 {
 "show":true,
@@ -1375,16 +1375,16 @@
 "iconFontFamily":"CupertinoIcons",
 "buttonAlignment":"centerLeft"
 },
-"screen-trackOrder": {
-  "id": "screen-trackOrder",
-  "icon": "cube_box",
-  "title": "تتبع الطلب",
-  "screen": "orders",
-  "webViewMode": false,
-  "useTabScreen": false,
-  "enableClose": false,
-  "enableForward": false,
-  "enableBackward": true
+"web-trackOrder":{
+"id":"web-trackOrder",
+"icon":"cube_box",
+"title":"تتبع الطلب",
+"webUrl":"https://app.btime.om/",
+"enableClose":false,
+"webViewMode":true,
+"useTabScreen":false,
+"enableForward":true,
+"enableBackward":true
 },
 "screen-brandsWeb":{
 "id":"screen-brandsWeb",
