@@ -1036,7 +1036,7 @@
 "marginLeft":0,
 "marginRight":0,
 "bottomBarStyle":"static",
-"alwaysShowTabBar":true,
+"alwaysShowTabBar":false,
 "TabBarIndicator":{
 "height":1,
 "tabPosition":"bottom",
