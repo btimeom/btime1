@@ -1442,7 +1442,7 @@
 "enableClose":false,
 "webViewMode":false,
 "bannerHeight":15,
-"useTabScreen":true,
+"useTabScreen":false,
 "enableDivider":false,
 "enableForward":false,
 "requiredLogin":false,
